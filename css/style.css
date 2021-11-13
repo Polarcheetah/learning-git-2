@@ -3,8 +3,8 @@ body {
 	padding: 0;
 	font-family: 'Arial';
 	color: #000;
-
 	text-align: center;
+        display: flex;
 }
 
 body h1 {
